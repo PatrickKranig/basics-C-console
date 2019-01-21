@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\Methoden und eigene Klassen\Methoden und eigene Klassen\obj\Debug\Methoden und eigene Klassen.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\Methoden und eigene Klassen\Methoden und eigene Klassen\obj\Debug\Methoden und eigene Klassen.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\Methoden und eigene Klassen\Methoden und eigene Klassen\bin\Debug\Methoden und eigene Klassen.exe.config
+C:\Users\Pat\source\repos\Methoden und eigene Klassen\Methoden und eigene Klassen\bin\Debug\Methoden und eigene Klassen.exe
+C:\Users\Pat\source\repos\Methoden und eigene Klassen\Methoden und eigene Klassen\bin\Debug\Methoden und eigene Klassen.pdb
+C:\Users\Pat\source\repos\Methoden und eigene Klassen\Methoden und eigene Klassen\obj\Debug\Methoden und eigene Klassen.exe
+C:\Users\Pat\source\repos\Methoden und eigene Klassen\Methoden und eigene Klassen\obj\Debug\Methoden und eigene Klassen.pdb
