@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Get und Set\Get und Set\obj\Debug\Get und Set.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Get und Set\Get und Set\obj\Debug\Get und Set.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Get und Set\Get und Set\bin\Debug\Get und Set.exe.config
+C:\Users\Administrator\source\repos\Get und Set\Get und Set\bin\Debug\Get und Set.exe
+C:\Users\Administrator\source\repos\Get und Set\Get und Set\bin\Debug\Get und Set.pdb
+C:\Users\Administrator\source\repos\Get und Set\Get und Set\obj\Debug\Get und Set.exe
+C:\Users\Administrator\source\repos\Get und Set\Get und Set\obj\Debug\Get und Set.pdb

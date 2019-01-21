@@ -1,0 +1,14 @@
+C:\Users\Pat\source\repos\Klassen\Klassen\obj\Debug\Klassen.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\Klassen\Klassen\obj\Debug\Klassen.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\Klassen\Klassen\bin\Debug\Klassen.exe.config
+C:\Users\Pat\source\repos\Klassen\Klassen\bin\Debug\Klassen.exe
+C:\Users\Pat\source\repos\Klassen\Klassen\bin\Debug\Klassen.pdb
+C:\Users\Pat\source\repos\Klassen\Klassen\obj\Debug\Klassen.exe
+C:\Users\Pat\source\repos\Klassen\Klassen\obj\Debug\Klassen.pdb
+E:\Klassen\Klassen\bin\Debug\Klassen.exe.config
+E:\Klassen\Klassen\bin\Debug\Klassen.exe
+E:\Klassen\Klassen\bin\Debug\Klassen.pdb
+E:\Klassen\Klassen\obj\Debug\Klassen.csprojAssemblyReference.cache
+E:\Klassen\Klassen\obj\Debug\Klassen.csproj.CoreCompileInputs.cache
+E:\Klassen\Klassen\obj\Debug\Klassen.exe
+E:\Klassen\Klassen\obj\Debug\Klassen.pdb
