@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\FeherAbfangen_Test\FeherAbfangen_Test\bin\Debug\FeherAbfangen_Test.exe.config
+C:\Users\Pat\source\repos\FeherAbfangen_Test\FeherAbfangen_Test\bin\Debug\FeherAbfangen_Test.exe
+C:\Users\Pat\source\repos\FeherAbfangen_Test\FeherAbfangen_Test\bin\Debug\FeherAbfangen_Test.pdb
+C:\Users\Pat\source\repos\FeherAbfangen_Test\FeherAbfangen_Test\obj\Debug\FeherAbfangen_Test.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\FeherAbfangen_Test\FeherAbfangen_Test\obj\Debug\FeherAbfangen_Test.exe
+C:\Users\Pat\source\repos\FeherAbfangen_Test\FeherAbfangen_Test\obj\Debug\FeherAbfangen_Test.pdb
+C:\Users\Pat\source\repos\FeherAbfangen_Test\FeherAbfangen_Test\obj\Debug\FeherAbfangen_Test.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\HighScore\HighScore\obj\Debug\HighScore.csprojAssemblyReference.cache
+E:\HighScore\HighScore\obj\Debug\HighScore.csproj.CoreCompileInputs.cache
+E:\HighScore\HighScore\bin\Debug\HighScore.exe.config
+E:\HighScore\HighScore\bin\Debug\HighScore.exe
+E:\HighScore\HighScore\bin\Debug\HighScore.pdb
+E:\HighScore\HighScore\obj\Debug\HighScore.exe
+E:\HighScore\HighScore\obj\Debug\HighScore.pdb
+C:\Users\Administrator\source\repos\HighScore\HighScore\obj\Debug\HighScore.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\HighScore\HighScore\obj\Debug\HighScore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HighScore\HighScore\obj\Debug\HighScore.exe
+C:\Users\Administrator\source\repos\HighScore\HighScore\obj\Debug\HighScore.pdb
+C:\Users\Administrator\source\repos\HighScore\HighScore\bin\Debug\HighScore.exe.config
+C:\Users\Administrator\source\repos\HighScore\HighScore\bin\Debug\HighScore.exe
+C:\Users\Administrator\source\repos\HighScore\HighScore\bin\Debug\HighScore.pdb

@@ -1,0 +1,14 @@
+C:\Users\Pat\source\repos\FehlerAbfangen\FehlerAbfangen\bin\Debug\FehlerAbfangen.exe.config
+C:\Users\Pat\source\repos\FehlerAbfangen\FehlerAbfangen\bin\Debug\FehlerAbfangen.exe
+C:\Users\Pat\source\repos\FehlerAbfangen\FehlerAbfangen\bin\Debug\FehlerAbfangen.pdb
+C:\Users\Pat\source\repos\FehlerAbfangen\FehlerAbfangen\obj\Debug\FehlerAbfangen.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\FehlerAbfangen\FehlerAbfangen\obj\Debug\FehlerAbfangen.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\FehlerAbfangen\FehlerAbfangen\obj\Debug\FehlerAbfangen.exe
+C:\Users\Pat\source\repos\FehlerAbfangen\FehlerAbfangen\obj\Debug\FehlerAbfangen.pdb
+C:\Users\Pat\source\repos\FehlerAbfangen (TryCatchFinally)\FehlerAbfangen\bin\Debug\FehlerAbfangen.exe.config
+C:\Users\Pat\source\repos\FehlerAbfangen (TryCatchFinally)\FehlerAbfangen\bin\Debug\FehlerAbfangen.exe
+C:\Users\Pat\source\repos\FehlerAbfangen (TryCatchFinally)\FehlerAbfangen\bin\Debug\FehlerAbfangen.pdb
+C:\Users\Pat\source\repos\FehlerAbfangen (TryCatchFinally)\FehlerAbfangen\obj\Debug\FehlerAbfangen.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\FehlerAbfangen (TryCatchFinally)\FehlerAbfangen\obj\Debug\FehlerAbfangen.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\FehlerAbfangen (TryCatchFinally)\FehlerAbfangen\obj\Debug\FehlerAbfangen.exe
+C:\Users\Pat\source\repos\FehlerAbfangen (TryCatchFinally)\FehlerAbfangen\obj\Debug\FehlerAbfangen.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Implizite u Explizite Konvertierung\Implizite u Explizite Konvertierung\bin\Debug\Implizite u Explizite Konvertierung.exe.config
+C:\Users\User\source\repos\Implizite u Explizite Konvertierung\Implizite u Explizite Konvertierung\bin\Debug\Implizite u Explizite Konvertierung.exe
+C:\Users\User\source\repos\Implizite u Explizite Konvertierung\Implizite u Explizite Konvertierung\bin\Debug\Implizite u Explizite Konvertierung.pdb
+C:\Users\User\source\repos\Implizite u Explizite Konvertierung\Implizite u Explizite Konvertierung\obj\Debug\Implizite u Explizite Konvertierung.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Implizite u Explizite Konvertierung\Implizite u Explizite Konvertierung\obj\Debug\Implizite u Explizite Konvertierung.exe
+C:\Users\User\source\repos\Implizite u Explizite Konvertierung\Implizite u Explizite Konvertierung\obj\Debug\Implizite u Explizite Konvertierung.pdb
+C:\Users\User\source\repos\Implizite u Explizite Konvertierung\Implizite u Explizite Konvertierung\obj\Debug\Implizite u Explizite Konvertierung.csprojAssemblyReference.cache
