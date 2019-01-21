@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\Login (If verschachteln)\Login (If verschachteln)\bin\Debug\Login (If verschachteln).exe.config
+C:\Users\Pat\source\repos\Login (If verschachteln)\Login (If verschachteln)\bin\Debug\Login (If verschachteln).exe
+C:\Users\Pat\source\repos\Login (If verschachteln)\Login (If verschachteln)\bin\Debug\Login (If verschachteln).pdb
+C:\Users\Pat\source\repos\Login (If verschachteln)\Login (If verschachteln)\obj\Debug\Login (If verschachteln).csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\Login (If verschachteln)\Login (If verschachteln)\obj\Debug\Login (If verschachteln).csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\Login (If verschachteln)\Login (If verschachteln)\obj\Debug\Login (If verschachteln).exe
+C:\Users\Pat\source\repos\Login (If verschachteln)\Login (If verschachteln)\obj\Debug\Login (If verschachteln).pdb

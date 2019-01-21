@@ -1,0 +1,14 @@
+C:\Users\Master\source\repos\Case\Case\obj\Debug\Case.csprojAssemblyReference.cache
+C:\Users\Master\source\repos\Case\Case\obj\Debug\Case.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Case\Case\bin\Debug\Case.exe.config
+C:\Users\Master\source\repos\Case\Case\bin\Debug\Case.exe
+C:\Users\Master\source\repos\Case\Case\bin\Debug\Case.pdb
+C:\Users\Master\source\repos\Case\Case\obj\Debug\Case.exe
+C:\Users\Master\source\repos\Case\Case\obj\Debug\Case.pdb
+K:\daten\C# coden\Projekte\Konsolenanwendung (basics)\Case\Case\obj\Debug\Case.csprojAssemblyReference.cache
+K:\daten\C# coden\Projekte\Konsolenanwendung (basics)\Case\Case\obj\Debug\Case.csproj.CoreCompileInputs.cache
+K:\daten\C# coden\Projekte\Konsolenanwendung (basics)\Case\Case\obj\Debug\Case.exe
+K:\daten\C# coden\Projekte\Konsolenanwendung (basics)\Case\Case\obj\Debug\Case.pdb
+K:\daten\C# coden\Projekte\Konsolenanwendung (basics)\Case\Case\bin\Debug\Case.exe.config
+K:\daten\C# coden\Projekte\Konsolenanwendung (basics)\Case\Case\bin\Debug\Case.exe
+K:\daten\C# coden\Projekte\Konsolenanwendung (basics)\Case\Case\bin\Debug\Case.pdb

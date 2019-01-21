@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\IF Bedingungen\IF Bedingungen\bin\Debug\IF Bedingungen.exe.config
+C:\Users\Pat\source\repos\IF Bedingungen\IF Bedingungen\bin\Debug\IF Bedingungen.exe
+C:\Users\Pat\source\repos\IF Bedingungen\IF Bedingungen\bin\Debug\IF Bedingungen.pdb
+C:\Users\Pat\source\repos\IF Bedingungen\IF Bedingungen\obj\Debug\IF Bedingungen.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\IF Bedingungen\IF Bedingungen\obj\Debug\IF Bedingungen.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\IF Bedingungen\IF Bedingungen\obj\Debug\IF Bedingungen.exe
+C:\Users\Pat\source\repos\IF Bedingungen\IF Bedingungen\obj\Debug\IF Bedingungen.pdb
