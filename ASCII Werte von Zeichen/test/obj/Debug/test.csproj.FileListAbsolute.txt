@@ -1,0 +1,14 @@
+C:\Users\Patri\source\repos\test\test\bin\Debug\test.exe.config
+C:\Users\Patri\source\repos\test\test\bin\Debug\test.exe
+C:\Users\Patri\source\repos\test\test\bin\Debug\test.pdb
+C:\Users\Patri\source\repos\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Patri\source\repos\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Patri\source\repos\test\test\obj\Debug\test.exe
+C:\Users\Patri\source\repos\test\test\obj\Debug\test.pdb
+C:\Users\Patri\source\repos\ASCII Werte\test\bin\Debug\test.exe.config
+C:\Users\Patri\source\repos\ASCII Werte\test\bin\Debug\test.exe
+C:\Users\Patri\source\repos\ASCII Werte\test\bin\Debug\test.pdb
+C:\Users\Patri\source\repos\ASCII Werte\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Patri\source\repos\ASCII Werte\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Patri\source\repos\ASCII Werte\test\obj\Debug\test.exe
+C:\Users\Patri\source\repos\ASCII Werte\test\obj\Debug\test.pdb

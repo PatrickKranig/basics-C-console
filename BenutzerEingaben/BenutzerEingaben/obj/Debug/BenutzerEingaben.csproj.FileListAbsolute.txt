@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\BenutzerEingaben\BenutzerEingaben\bin\Debug\BenutzerEingaben.exe.config
+C:\Users\Pat\source\repos\BenutzerEingaben\BenutzerEingaben\bin\Debug\BenutzerEingaben.exe
+C:\Users\Pat\source\repos\BenutzerEingaben\BenutzerEingaben\bin\Debug\BenutzerEingaben.pdb
+C:\Users\Pat\source\repos\BenutzerEingaben\BenutzerEingaben\obj\Debug\BenutzerEingaben.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\BenutzerEingaben\BenutzerEingaben\obj\Debug\BenutzerEingaben.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\BenutzerEingaben\BenutzerEingaben\obj\Debug\BenutzerEingaben.exe
+C:\Users\Pat\source\repos\BenutzerEingaben\BenutzerEingaben\obj\Debug\BenutzerEingaben.pdb
