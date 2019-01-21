@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Methoden\Methoden\bin\Debug\Methoden.exe.config
+C:\Users\User\source\repos\Methoden\Methoden\bin\Debug\Methoden.exe
+C:\Users\User\source\repos\Methoden\Methoden\bin\Debug\Methoden.pdb
+C:\Users\User\source\repos\Methoden\Methoden\obj\Debug\Methoden.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Methoden\Methoden\obj\Debug\Methoden.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methoden\Methoden\obj\Debug\Methoden.exe
+C:\Users\User\source\repos\Methoden\Methoden\obj\Debug\Methoden.pdb

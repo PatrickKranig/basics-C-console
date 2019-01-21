@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\MethodenHeruasforderung\MethodenHeruasforderung\obj\Debug\MethodenHeruasforderung.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\MethodenHeruasforderung\MethodenHeruasforderung\obj\Debug\MethodenHeruasforderung.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\MethodenHeruasforderung\MethodenHeruasforderung\bin\Debug\MethodenHeruasforderung.exe.config
+C:\Users\Pat\source\repos\MethodenHeruasforderung\MethodenHeruasforderung\bin\Debug\MethodenHeruasforderung.exe
+C:\Users\Pat\source\repos\MethodenHeruasforderung\MethodenHeruasforderung\bin\Debug\MethodenHeruasforderung.pdb
+C:\Users\Pat\source\repos\MethodenHeruasforderung\MethodenHeruasforderung\obj\Debug\MethodenHeruasforderung.exe
+C:\Users\Pat\source\repos\MethodenHeruasforderung\MethodenHeruasforderung\obj\Debug\MethodenHeruasforderung.pdb

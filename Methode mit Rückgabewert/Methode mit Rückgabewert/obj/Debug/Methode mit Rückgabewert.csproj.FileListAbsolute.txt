@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\Methode mit Rückgabewert\Methode mit Rückgabewert\bin\Debug\Methode mit Rückgabewert.exe.config
+C:\Users\Pat\source\repos\Methode mit Rückgabewert\Methode mit Rückgabewert\bin\Debug\Methode mit Rückgabewert.exe
+C:\Users\Pat\source\repos\Methode mit Rückgabewert\Methode mit Rückgabewert\bin\Debug\Methode mit Rückgabewert.pdb
+C:\Users\Pat\source\repos\Methode mit Rückgabewert\Methode mit Rückgabewert\obj\Debug\Methode mit Rückgabewert.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\Methode mit Rückgabewert\Methode mit Rückgabewert\obj\Debug\Methode mit Rückgabewert.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\Methode mit Rückgabewert\Methode mit Rückgabewert\obj\Debug\Methode mit Rückgabewert.exe
+C:\Users\Pat\source\repos\Methode mit Rückgabewert\Methode mit Rückgabewert\obj\Debug\Methode mit Rückgabewert.pdb
