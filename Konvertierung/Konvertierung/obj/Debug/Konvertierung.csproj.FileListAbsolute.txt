@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Konvertierung\Konvertierung\bin\Debug\Konvertierung.exe.config
+C:\Users\User\source\repos\Konvertierung\Konvertierung\bin\Debug\Konvertierung.exe
+C:\Users\User\source\repos\Konvertierung\Konvertierung\bin\Debug\Konvertierung.pdb
+C:\Users\User\source\repos\Konvertierung\Konvertierung\obj\Debug\Konvertierung.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Konvertierung\Konvertierung\obj\Debug\Konvertierung.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Konvertierung\Konvertierung\obj\Debug\Konvertierung.exe
+C:\Users\User\source\repos\Konvertierung\Konvertierung\obj\Debug\Konvertierung.pdb
