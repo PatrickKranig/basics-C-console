@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\Operatoren\Operatoren\bin\Debug\Operatoren.exe.config
+C:\Users\Pat\source\repos\Operatoren\Operatoren\bin\Debug\Operatoren.exe
+C:\Users\Pat\source\repos\Operatoren\Operatoren\bin\Debug\Operatoren.pdb
+C:\Users\Pat\source\repos\Operatoren\Operatoren\obj\Debug\Operatoren.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\Operatoren\Operatoren\obj\Debug\Operatoren.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\Operatoren\Operatoren\obj\Debug\Operatoren.exe
+C:\Users\Pat\source\repos\Operatoren\Operatoren\obj\Debug\Operatoren.pdb

@@ -1,0 +1,7 @@
+C:\Users\Patri\source\repos\Do While (Passswort)\Do While (Passswort)\bin\Debug\Do While (Passswort).exe.config
+C:\Users\Patri\source\repos\Do While (Passswort)\Do While (Passswort)\bin\Debug\Do While (Passswort).exe
+C:\Users\Patri\source\repos\Do While (Passswort)\Do While (Passswort)\bin\Debug\Do While (Passswort).pdb
+C:\Users\Patri\source\repos\Do While (Passswort)\Do While (Passswort)\obj\Debug\Do While (Passswort).csprojAssemblyReference.cache
+C:\Users\Patri\source\repos\Do While (Passswort)\Do While (Passswort)\obj\Debug\Do While (Passswort).csproj.CoreCompileInputs.cache
+C:\Users\Patri\source\repos\Do While (Passswort)\Do While (Passswort)\obj\Debug\Do While (Passswort).exe
+C:\Users\Patri\source\repos\Do While (Passswort)\Do While (Passswort)\obj\Debug\Do While (Passswort).pdb

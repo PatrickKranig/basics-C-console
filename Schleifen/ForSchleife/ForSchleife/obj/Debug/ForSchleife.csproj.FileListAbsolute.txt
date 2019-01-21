@@ -1,0 +1,14 @@
+C:\Users\Pat\source\repos\ForSchleife\ForSchleife\bin\Debug\ForSchleife.exe.config
+C:\Users\Pat\source\repos\ForSchleife\ForSchleife\bin\Debug\ForSchleife.exe
+C:\Users\Pat\source\repos\ForSchleife\ForSchleife\bin\Debug\ForSchleife.pdb
+C:\Users\Pat\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.exe
+C:\Users\Pat\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.pdb
+G:\daten\Programmierung\C# - VS\Projekte\Konsolenanwendung (basics)\ForSchleife\ForSchleife\bin\Debug\ForSchleife.exe.config
+G:\daten\Programmierung\C# - VS\Projekte\Konsolenanwendung (basics)\ForSchleife\ForSchleife\bin\Debug\ForSchleife.exe
+G:\daten\Programmierung\C# - VS\Projekte\Konsolenanwendung (basics)\ForSchleife\ForSchleife\bin\Debug\ForSchleife.pdb
+G:\daten\Programmierung\C# - VS\Projekte\Konsolenanwendung (basics)\ForSchleife\ForSchleife\obj\Debug\ForSchleife.csprojAssemblyReference.cache
+G:\daten\Programmierung\C# - VS\Projekte\Konsolenanwendung (basics)\ForSchleife\ForSchleife\obj\Debug\ForSchleife.csproj.CoreCompileInputs.cache
+G:\daten\Programmierung\C# - VS\Projekte\Konsolenanwendung (basics)\ForSchleife\ForSchleife\obj\Debug\ForSchleife.exe
+G:\daten\Programmierung\C# - VS\Projekte\Konsolenanwendung (basics)\ForSchleife\ForSchleife\obj\Debug\ForSchleife.pdb

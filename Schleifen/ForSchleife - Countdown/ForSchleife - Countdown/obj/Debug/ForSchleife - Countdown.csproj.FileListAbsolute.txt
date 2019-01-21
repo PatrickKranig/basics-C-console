@@ -1,0 +1,7 @@
+C:\Users\Patri\source\repos\ForSchleife - Countdown\ForSchleife - Countdown\obj\Debug\ForSchleife - Countdown.csprojAssemblyReference.cache
+C:\Users\Patri\source\repos\ForSchleife - Countdown\ForSchleife - Countdown\obj\Debug\ForSchleife - Countdown.csproj.CoreCompileInputs.cache
+C:\Users\Patri\source\repos\ForSchleife - Countdown\ForSchleife - Countdown\bin\Debug\ForSchleife - Countdown.exe.config
+C:\Users\Patri\source\repos\ForSchleife - Countdown\ForSchleife - Countdown\bin\Debug\ForSchleife - Countdown.exe
+C:\Users\Patri\source\repos\ForSchleife - Countdown\ForSchleife - Countdown\bin\Debug\ForSchleife - Countdown.pdb
+C:\Users\Patri\source\repos\ForSchleife - Countdown\ForSchleife - Countdown\obj\Debug\ForSchleife - Countdown.exe
+C:\Users\Patri\source\repos\ForSchleife - Countdown\ForSchleife - Countdown\obj\Debug\ForSchleife - Countdown.pdb
